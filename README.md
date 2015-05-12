@@ -12,6 +12,8 @@ It include composition sample in Objective-C, that will create a composited movi
 - AVMutableVideoCompositionLayerInstruction
 - AVMutableVideoComposition
 - AVAssetExportSession
+- AVMutableAudioMix
+- AVMutableAudioMixInputParameters
 
 
 ## How to use this sample
